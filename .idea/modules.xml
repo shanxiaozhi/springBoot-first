@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mis-consunmer/mis-consunmer.iml" filepath="$PROJECT_DIR$/mis-consunmer/mis-consunmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mis-parent.iml" filepath="$PROJECT_DIR$/mis-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mis-provider/mis-provider.iml" filepath="$PROJECT_DIR$/mis-provider/mis-provider.iml" />
+    </modules>
+  </component>
+</project>
